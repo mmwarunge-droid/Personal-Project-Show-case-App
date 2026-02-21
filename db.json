@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Kenya AA",
+      "description": "Bright acidity with citrus notes.",
+      "origin": "Kenya",
+      "price": 1200,
+      "location": "Location 1"
+    },
+    {
+      "id": "2",
+      "name": "Ethiopia Yirgacheffe",
+      "description": "Floral aroma with tea-like finish.",
+      "origin": "Ethiopia",
+      "price": 1350,
+      "location": "Location 2"
+    },
+    {
+      "id": "3",
+      "name": "Colombia Supremo",
+      "description": "Smooth caramel sweetness and chocolate.",
+      "origin": "Colombia",
+      "price": 1100,
+      "location": "Location 3"
+    },
+    {
+      "id": "f934",
+      "name": "Expresso",
+      "description": "ffrenfkjernf",
+      "origin": "jhnfjerfn",
+      "price": 45,
+      "location": "Location 3"
+    }
+  ]
+}
